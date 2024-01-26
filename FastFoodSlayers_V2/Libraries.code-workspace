@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Libraries",
+			"path": "../../FastFoodSlayers/Libraries"
+		},
+		{
+			"name": "FastFoodSlayers_V2",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
